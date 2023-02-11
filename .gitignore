@@ -4,3 +4,4 @@ venv
 bin
 lib
 .DS_Store
+__pycache__
